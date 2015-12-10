@@ -1,3 +1,6 @@
 name 'formatron_postgresql'
 version '0.1.0'
+description 'Formatron PostrgeSQL cookbook'
+source_url 'https://github.com/formatron/postgresql-cookbook'
+issues_url 'https://github.com/formatron/postgresql-cookbook/issues'
 supports 'ubuntu'
